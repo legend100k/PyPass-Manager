@@ -37,12 +37,12 @@ The project utilizes **Pandas** for robust data handling and **NumPy** for high-
 2.  **Install Dependencies:**
     You need `pandas` and `numpy` to run the magic.
     ```bash
-    pip install pandas numpy
+    pip install -r requirements.txt
     ```
 
 3.  **Run the App:**
     ```bash
-    python chadgpt.py
+    python project.py
     ```
 
 ## 🎮 How to Use
